@@ -1,9 +1,10 @@
-#installing http server using the npm
+# **installing http server using the npm**
 npm install -g http-server
 
-//Starting the http server
+# **Starting the http server**
 ? http-server -c-1
-//output will be like below
+
+# **output will be like below**
 Starting up http-server, serving ./
 Available on:
   http://192.168.1.78:8081
