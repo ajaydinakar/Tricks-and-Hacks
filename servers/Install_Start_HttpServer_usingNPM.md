@@ -5,7 +5,7 @@ npm install -g http-server
 
 # **Starting the http server**
 ~~~
-? http-server -c-1
+ http-server -c-1
 ~~~
 
 # **output will be like below**
