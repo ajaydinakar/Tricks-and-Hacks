@@ -1,8 +1,12 @@
 # **installing http server using the npm**
+~~~
 npm install -g http-server
+~~~
 
 # **Starting the http server**
+~~~
 ? http-server -c-1
+~~~
 
 # **output will be like below**
 ~~~
