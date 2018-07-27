@@ -1,4 +1,4 @@
-//installing http server using the npm
+#installing http server using the npm
 npm install -g http-server
 
 //Starting the http server
