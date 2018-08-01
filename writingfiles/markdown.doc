@@ -1,31 +1,3 @@
-Ordered list
-List in list
-Quotes or citations
-Inline code characters
-Code blocks
-Links to external websites
-Linking issue keys to JIRA applications
-Linking to pull requests
-Images
-Tables
-Backslash escapes
-README files
-Related content
-Search for code in Bitbucket Server
-Using custom Jira issue keys with Bitbucket Server
-Bitbucket Server EAP - How to update your add-on
-Event payload
-Creating a Contributions guidelines file
-Still need help?
-The Atlassian Community is here for you.
-
-Ask the community
-
-Bitbucket Server uses Markdown for formatting text, as specified in CommonMark (with a few extensions). You can use Markdown in the following places:
-
-any pull request's descriptions or comments, or
-in README files (if they have the .md file extension).
-Use Control-Shift-P or Command-Shift-P to preview your markdown.
 
 
 Markdown syntax
