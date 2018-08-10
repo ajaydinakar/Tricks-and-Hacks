@@ -1,9 +1,14 @@
 
 >  java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
 
-####When
+#### When
+
 >  https://localhost:portnumber
-####Why
+
+#### Why
+
 >  giving https on client
-####Solution
+
+#### Solution
+
 >  change to http://localhost:portnumber
